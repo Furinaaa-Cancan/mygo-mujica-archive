@@ -1,0 +1,12 @@
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+node_modules/
+个人作品/
+
