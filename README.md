@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/brand/logo/logo_TV%E7%89%88.svg" height="90" alt="MyGO!!!!!">
+<img src="assets/MyGO/brand/logo/logo_TV%E7%89%88.svg" height="90" alt="MyGO!!!!!">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/brand/logo/logo_TV%E7%89%88.svg" height="90" alt="Ave Mujica">
+<img src="assets/AveMujica/brand/logo/logo_TV%E7%89%88.svg" height="90" alt="Ave Mujica">
 
 # MyGO!!!!! / Ave Mujica 同人素材整理库
 
@@ -21,78 +21,54 @@
 收集 · 去重 · 分类 · 命名规范化已完成
 立牌、KV、Logo、卡面、MV 缩略图、动画截图、アクスタ、字体、配色一次到位
 
+<br>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/MyGO/KV_0_%E4%B8%BB%E8%A7%86%E8%A7%89.jpg" width="420"><br>
+<sub><b>MyGO!!!!! 主视觉</b> · 1680 × 2070</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/Mujica/Hero_%E4%B8%BB%E8%A7%86%E8%A7%89.png" width="420"><br>
+<sub><b>Ave Mujica 主视觉</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 素材速览
+## 角色一览
 
-<table align="center">
+<div align="center">
+
+**MyGO!!!!!**
+
+<table>
 <tr>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/MyGO/KV_0_%E4%B8%BB%E8%A7%86%E8%A7%89.jpg" width="320"><br>
-<sub><b>MyGO!!!!! 主视觉</b><br>1680×2070 · `_shared/kv/MyGO`</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/Mujica/Hero_%E4%B8%BB%E8%A7%86%E8%A7%89.png" width="320"><br>
-<sub><b>Ave Mujica 主视觉</b><br>`_shared/kv/Mujica`</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/Mujica/Hero_2.jpg" width="320"><br>
-<sub><b>Ave Mujica Hero #2</b><br>『鬱』『狂気』『運命』</sub>
-</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/01_%E9%AB%98%E6%9D%BE%E7%87%88_Tomori.png" height="220"><br><sub>高松 燈<br>Tomori</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/02_%E5%8D%83%E6%97%A9%E6%84%9B%E9%9F%B3_Anon.png" height="220"><br><sub>千早 愛音<br>Anon</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/03_%E8%A6%81%E6%A5%BD%E5%A5%88_Rana.png" height="220"><br><sub>要 楽奈<br>Rana</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/04_%E9%95%B7%E5%B4%8E%E3%81%9D%E3%82%88_Soyo.png" height="220"><br><sub>長崎 そよ<br>Soyo</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/05_%E6%A4%8E%E5%90%8D%E7%AB%8B%E5%B8%8C_Taki.png" height="220"><br><sub>椎名 立希<br>Taki</sub></td>
 </tr>
 </table>
 
-<table align="center">
+**Ave Mujica**
+
+<table>
 <tr>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/01_%E9%AB%98%E6%9D%BE%E7%87%88_Tomori.png" height="200"><br>
-<sub>高松 燈</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/02_%E5%8D%83%E6%97%A9%E6%84%9B%E9%9F%B3_Anon.png" height="200"><br>
-<sub>千早 愛音</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/03_%E8%A6%81%E6%A5%BD%E5%A5%88_Rana.png" height="200"><br>
-<sub>要 楽奈</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/04_%E9%95%B7%E5%B4%8E%E3%81%9D%E3%82%88_Soyo.png" height="200"><br>
-<sub>長崎 そよ</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/MyGO/05_%E6%A4%8E%E5%90%8D%E7%AB%8B%E5%B8%8C_Taki.png" height="200"><br>
-<sub>椎名 立希</sub>
-</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/01_%E8%B1%8A%E5%B7%9D%E7%A5%A5%E5%AD%90_Sakiko_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="220"><br><sub>Oblivionis<br>豊川 祥子</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/02_%E8%8B%A5%E8%91%89%E7%9D%A6_Mutsumi_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="220"><br><sub>Mortis<br>若葉 睦</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/03_%E4%B8%89%E8%A7%92%E5%88%9D%E8%8F%AF_Uika_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="220"><br><sub>Doloris<br>三角 初華</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/04_%E5%85%AB%E5%B9%A1%E6%B5%B7%E9%88%B4_Umiri_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="220"><br><sub>Timoris<br>八幡 海鈴</sub></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/05_%E7%A5%90%E5%A4%A9%E5%AF%BA%E3%81%AB%E3%82%83%E3%82%80_Nyamu_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="220"><br><sub>Amoris<br>祐天寺にゃむ</sub></td>
 </tr>
 </table>
 
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/01_%E8%B1%8A%E5%B7%9D%E7%A5%A5%E5%AD%90_Sakiko_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="180"><br>
-<sub>Oblivionis<br>豊川 祥子</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/02_%E8%8B%A5%E8%91%89%E7%9D%A6_Mutsumi_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="180"><br>
-<sub>Mortis<br>若葉 睦</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/03_%E4%B8%89%E8%A7%92%E5%88%9D%E8%8F%AF_Uika_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="180"><br>
-<sub>Doloris<br>三角 初華</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/04_%E5%85%AB%E5%B9%A1%E6%B5%B7%E9%88%B4_Umiri_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="180"><br>
-<sub>Timoris<br>八幡 海鈴</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/tachie/AveMujica/05_%E7%A5%90%E5%A4%A9%E5%AF%BA%E3%81%AB%E3%82%83%E3%82%80_Nyamu_%E9%9D%A2%E5%85%B7%E7%89%88.png" height="180"><br>
-<sub>Amoris<br>祐天寺 にゃむ</sub>
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -163,37 +139,149 @@
 
 ---
 
-## 数据集详解
+## 主视觉 / KV
 
-### `tachie/` — 角色立牌
+官方 KV 与 Hero 主视觉，分辨率最高的素材组。适合做网站 Hero 区背景、海报、装饰横幅。
 
-透明背景全身 PNG，已统一序号 + 日文姓名 + 罗马音命名。Mujica 5 位角色额外提供「面具版 / 素颜版」双版本。
-
-```
-tachie/MyGO/01_高松燈_Tomori.png            1150 × 1741
-tachie/AveMujica/01_豊川祥子_Sakiko_面具版.png   760 × 1160
-tachie/AveMujica/01_豊川祥子_Sakiko_素颜版.png   760 × 1160
-```
-
-> **典型用法**：角色介绍页主视觉、Hero 区动态切换、Live2D 缩略图、Discord 头像。
-
-### `assets/_shared/kv/` — 主视觉
-
-官方 KV / Hero 主视觉，分辨率最高的素材组（最大 1680×2070）。
-适合做网站 Hero 区背景、海报、装饰横幅。
+<div align="center">
 
 <table>
 <tr>
-<td><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/wallpaper/pc/PC1.jpg" width="380"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/wallpaper/movie/%E5%A3%81%E7%BA%B801_PC%E6%A8%AA%E5%B1%8F.jpg" width="380"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/Mujica/Hero_2.jpg" width="280"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/Mujica/Hero_3.jpg" width="280"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/_shared/kv/Mujica/Modal_PC.jpg" width="280"></td>
 </tr>
 <tr>
-<td align="center"><sub>Ave Mujica · PC 壁纸 2560×1440</sub></td>
-<td align="center"><sub>MyGO 劇場版 · PC 壁纸</sub></td>
+<td align="center"><sub>Hero 2 · 鬱</sub></td>
+<td align="center"><sub>Hero 3 · 狂気</sub></td>
+<td align="center"><sub>Modal · 運命</sub></td>
 </tr>
 </table>
 
-### `assets/_shared/fonts/` — Web 字体（OFL 可商用）
+</div>
+
+---
+
+## 卡面立绘
+
+MyGO 119 张高清卡面（Bestdori 解包，1334 × 1002 横版），Ave Mujica 37 张按角色子目录分组（Wikia API，竖版立绘）。
+
+**MyGO · 横版卡面**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/art/cards-bestdori/Anon_res037001_normal_Center_of_the_Band.png" width="420"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/art/cards-bestdori/Anon_res037002_normal_Let%27s_Start_a_Lifetime.png" width="420"></td>
+</tr>
+<tr>
+<td align="center"><sub>Anon · Center of the Band</sub></td>
+<td align="center"><sub>Anon · Let's Start a Lifetime</sub></td>
+</tr>
+</table>
+
+</div>
+
+**Ave Mujica · 竖版立绘**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/art/cards-wikia/Sakiko/Sakiko_anime.png" height="320"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/art/cards-wikia/Mutsumi/Mutsumi_anime.png" height="320"></td>
+</tr>
+<tr>
+<td align="center"><sub>Sakiko (anime)</sub></td>
+<td align="center"><sub>Mutsumi (anime)</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## アクスタ商品图
+
+Bushiroad Store 官方商品图，1000 × 1000 正方。MyGO 37 张 / Mujica 35 张，覆盖多个商品系列（BD Logo / TwoMan / SLR / Birthday / Exitus 等）。
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/merch/acrylic-stand-official/01_BD_Logo_AS_vol2_MyGO.jpg" width="240"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/merch/acrylic-stand-official/02_AmenisoyoideHarewoKou_Taki.jpg" width="240"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/merch/acrylic-stand-official/02_BD_Logo_AS_vol2_AveMujica.jpg" width="240"></td>
+</tr>
+<tr>
+<td align="center"><sub>MyGO · BD Logo Vol.2</sub></td>
+<td align="center"><sub>Amenisoyoide · Taki</sub></td>
+<td align="center"><sub>Mujica · BD Logo Vol.2</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## MV 缩略图
+
+官方 MV 缩略图，1280 × 720 横版，文件名带 YouTube videoId 便于回链。
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/media/mv-thumbnails/01_%E6%98%A5%E6%97%A5%E5%BD%B1_OfficialMV_ZsvJUh03MwI.jpg" width="420"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/media/mv-thumbnails/01_KiLLKiSS_OfficialMV_RexyoaXaQ1o.jpg" width="420"></td>
+</tr>
+<tr>
+<td align="center"><sub>MyGO · 春日影 — <a href="https://youtu.be/ZsvJUh03MwI">youtu.be/ZsvJUh03MwI</a></sub></td>
+<td align="center"><sub>Mujica · KiLLKiSS — <a href="https://youtu.be/RexyoaXaQ1o">youtu.be/RexyoaXaQ1o</a></sub></td>
+</tr>
+</table>
+
+</div>
+
+> 命名格式：`<序号>_<曲名>_<版本>_<videoId>.jpg`
+> 直接拼接 `https://youtu.be/<videoId>` 即可回到原视频。
+
+---
+
+## 桌面壁纸
+
+PC 横屏 2560 × 1440 / 手机竖屏 1080 × 1920。MyGO 提供劇場版套装，Mujica 提供官方动画壁纸。
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/wallpaper/pc/PC1.jpg" width="420"></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/wallpaper/movie/%E5%A3%81%E7%BA%B801_PC%E6%A8%AA%E5%B1%8F.jpg" width="420"></td>
+</tr>
+<tr>
+<td align="center"><sub>Ave Mujica · PC 2560×1440</sub></td>
+<td align="center"><sub>MyGO 劇場版 · PC 横屏</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 动画截图
+
+| 子目录 | 数量 | 说明 |
+| :--- | ---: | :--- |
+| `media/screenshots-best/` | MyGO 48 / Mujica 72 | 人工精选名场面，建站 / 二创首选 |
+| `media/screenshots/` | MyGO 1165 / Mujica 1226 | 完整截图集，回忆画廊全量素材 |
+
+> 截图保留中文场景命名，例如 `(諸神的命運).jpg`、`[無詞]Mortis踢腿.jpg`，便于按情节检索。
+
+---
+
+## 字体（OFL · 可商用）
 
 | 字体 | 用途 |
 | :--- | :--- |
@@ -205,11 +293,15 @@ tachie/AveMujica/01_豊川祥子_Sakiko_素颜版.png   760 × 1160
 
 每套字体目录内含 `*.woff2` 多字重 + `stylesheet.css`，可直接 `<link>` 引入。
 
-### `assets/_shared/palette/` — 角色配色
+---
 
-10 个角色的主色 / 辅色 hex，并附 CSS 变量片段，可直接复制到项目的 `:root`。
+## 角色配色
 
-<sub>MyGO!!!!!</sub>
+10 位角色的主色 hex，并附 CSS 变量片段，可直接复制到项目的 `:root`。
+
+<div align="center">
+
+**MyGO!!!!!**
 
 ![Tomori](https://img.shields.io/badge/Tomori-5A6FE0?style=for-the-badge&labelColor=5A6FE0)
 ![Anon](https://img.shields.io/badge/Anon-FF8AB6?style=for-the-badge&labelColor=FF8AB6)
@@ -217,7 +309,7 @@ tachie/AveMujica/01_豊川祥子_Sakiko_素颜版.png   760 × 1160
 ![Soyo](https://img.shields.io/badge/Soyo-5BC3F2?style=for-the-badge&labelColor=5BC3F2)
 ![Taki](https://img.shields.io/badge/Taki-E84C4C?style=for-the-badge&labelColor=E84C4C)
 
-<sub>Ave Mujica</sub>
+**Ave Mujica**
 
 ![Oblivionis](https://img.shields.io/badge/Oblivionis-6B4F8C?style=for-the-badge&labelColor=6B4F8C)
 ![Mortis](https://img.shields.io/badge/Mortis-C8C8D5?style=for-the-badge&labelColor=C8C8D5)
@@ -225,57 +317,9 @@ tachie/AveMujica/01_豊川祥子_Sakiko_素颜版.png   760 × 1160
 ![Timoris](https://img.shields.io/badge/Timoris-8B9F4C?style=for-the-badge&labelColor=8B9F4C)
 ![Amoris](https://img.shields.io/badge/Amoris-C84B7E?style=for-the-badge&labelColor=C84B7E)
 
+</div>
+
 完整 CSS 变量见 [`assets/_shared/palette/角色配色.md`](assets/_shared/palette/角色配色.md)。
-
-### `art/cards-bestdori/` & `art/cards-wikia/` — 卡面立绘
-
-MyGO 119 张高清卡面（Bestdori 解包，1334×1002），Ave Mujica 37 张按角色子目录分组（Wikia API）。
-
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/art/cards-bestdori/Anon_res037001_normal_Center_of_the_Band.png" width="380"></td>
-<td><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/AveMujica/art/cards-wikia/Sakiko/Sakiko_anime.png" width="240"></td>
-</tr>
-<tr>
-<td align="center"><sub>MyGO 卡面 · `Anon_res037001_normal_Center_of_the_Band.png`</sub></td>
-<td align="center"><sub>Mujica · `Sakiko_anime.png`</sub></td>
-</tr>
-</table>
-
-### `media/` — 影像资料
-
-| 子目录 | 内容 |
-| :--- | :--- |
-| `mv-thumbnails/` | 官方 MV 缩略图（YouTube CDN，1280×720，文件名带 videoId 便于回链） |
-| `screenshots-best/` | 人工精选名场面（MyGO 48 / Mujica 72） |
-| `screenshots/` | 完整动画截图（MyGO 1165 / Mujica 1226） |
-
-<table>
-<tr>
-<td><img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/media/mv-thumbnails/01_%E6%98%A5%E6%97%A5%E5%BD%B1_OfficialMV_ZsvJUh03MwI.jpg" width="380"></td>
-<td valign="top"><br>
-MV 缩略图命名带 YouTube videoId，可直接拼接：<br>
-<code>youtu.be/&lt;videoId&gt;</code><br><br>
-例：<code>01_春日影_OfficialMV_ZsvJUh03MwI.jpg</code><br>
-→ <a href="https://youtu.be/ZsvJUh03MwI">youtu.be/ZsvJUh03MwI</a>
-</td>
-</tr>
-</table>
-
-### `merch/acrylic-stand-official/` — アクスタ商品图
-
-Bushiroad Store 官方商品图，方背景或透明，1000×1000。MyGO 37 张 / Mujica 35 张，覆盖多个商品系列（BD Logo / TwoMan / SLR / 季节限定等）。
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@main/assets/MyGO/merch/acrylic-stand-official/01_BD_Logo_AS_vol2_MyGO.jpg" width="240">
-</p>
-
-### `wallpaper/` — 桌面 / 手机壁纸
-
-| 项目 | PC | Mobile |
-| :--- | ---: | ---: |
-| MyGO 劇場版 | 3 张 | 3 张 |
-| Ave Mujica | 3 张 2560×1440 | 3 张 1080×1920 |
 
 ---
 
@@ -321,7 +365,6 @@ git clone https://github.com/Furinaaa-Cancan/mygo-mujica-archive.git
 ```
 
 > 整库 ~466 MB。仅取部分素材时建议用 raw 链接 / DownGit / jsDelivr，避免完整克隆。
-> 立牌 / KV / Logo 已统一命名、透明背景、md5 去重，直接 `<img src>` 引用即可。
 
 ---
 
