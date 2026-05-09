@@ -105,7 +105,7 @@
 > 转载与衍生使用建议附本仓库链接，并尊重原作者 Bushiroad。
 > 版权方可通过 [Issue 模板](.github/ISSUE_TEMPLATE/takedown.md) 申请下架，承诺 7 个工作日内处理。
 
-详细授权条款见 [`LICENSE`](LICENSE)。
+详细使用规则见 [`使用协议.md`](使用协议.md)（中文友好版） · 法律层条款见 [`LICENSE`](LICENSE)。
 
 ---
 
