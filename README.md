@@ -8,6 +8,8 @@
 
 *BanG Dream! It's MyGO!!!!! · Ave Mujica · Fan Archive*
 
+**简体中文** · [English](README.en.md) · [日本語](README.ja.md)
+
 <br>
 
 ![Files](https://img.shields.io/badge/files-2843-blue?style=flat-square)
