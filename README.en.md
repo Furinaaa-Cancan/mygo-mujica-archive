@@ -74,6 +74,36 @@ Tachie, key visuals, logos, cards, MV thumbnails, anime screenshots, acrylic sta
 
 ---
 
+## Voice Cast
+
+<div align="center">
+
+**MyGO!!!!!**
+
+| Character | Instrument | Voice Actor / Real-life performer |
+| :--- | :--- | :--- |
+| Takamatsu Tomori | Vocal | Yōmiya Hina |
+| Chihaya Anon | Rhythm Guitar | Tateishi Rin |
+| Kaname Rāna | Lead Guitar | Aoki Hina |
+| Nagasaki Soyo | Bass | Kohinata Mika |
+| Shiina Taki | Drums | Hayashi Coco |
+
+**Ave Mujica**
+
+| Character / Stage Name | Role | Voice Actor |
+| :--- | :--- | :--- |
+| Togawa Sakiko / **Oblivionis** | Vocal | Takao Kanon |
+| Wakaba Mutsumi / **Mortis** | Drums | Watase Yuzuki |
+| Misumi Uika / **Doloris** | Guitar | Sasaki Rico |
+| Yahata Umiri / **Timoris** | Bass | Okada Mei |
+| Yūtenji Nyamu / **Amoris** | Keyboard | Yonezawa Akane |
+
+</div>
+
+> The voice actresses are also the real-life band members; they sing and play their own instruments. Live shows are literal "characters on stage."
+
+---
+
 ## About
 
 This is a curated asset archive aimed at **fan creators, indie developers, and video editors** working with `MyGO!!!!!` and `Ave Mujica` content.
@@ -207,7 +237,15 @@ Ave Mujica: 37 illustrations grouped by character (Wikia API, portrait orientati
 
 ## Acrylic Stands
 
-Bushiroad Store official product photos at 1000 × 1000. MyGO: 37 / Mujica: 35, covering multiple product lines (BD Logo, TwoMan, SLR, Birthday, Exitus, etc.).
+Bushiroad Store official product photos at 1000 × 1000. MyGO: 37 / Mujica: 35, covering the following product lines:
+
+| MyGO!!!!! Series (12) | Ave Mujica Series (10) |
+| :--- | :--- |
+| BD Logo Vol.2 · TwoMan · 8th Live | BD Logo Vol.2 · TwoMan · 4th Live Symphony |
+| Amenisoyoide Harewo Kou | Manuscriptus · Masquerade · Exitus |
+| Lost Band · Winter Travel · Aurora Oversize | Ulterius Procedere · Knight · Birthday Vol.2 |
+| 10th Anniv · KV2025 · Sing And Ring · PalVerse | PalVerse |
+| Star Descending Tea Party | — |
 
 <div align="center">
 
@@ -249,6 +287,35 @@ Official MV thumbnails at 1280 × 720. Filenames embed the YouTube videoId for e
 
 > Naming format: `<index>_<song>_<version>_<videoId>.jpg`
 > Just append the videoId to `https://youtu.be/` to reach the original video.
+
+---
+
+## Discography
+
+20 thumbnail variants are archived, covering the following songs.
+
+**MyGO!!!!!**
+
+| # | Title | Romaji | Anime usage | Official versions |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 春日影 | Haruhikage | Ep 7 insert song | [Official MV](https://youtu.be/ZsvJUh03MwI) · [Anime cut](https://youtu.be/W8DCWI_Gc9c) |
+| 2 | 詩超絆 | Utachōkizuna | Ep 10 insert song | [Official MV](https://youtu.be/wJ-OebTVyvk) · [Anime cut](https://youtu.be/QkG7tIGYgSw) |
+| 3 | 迷星叫 | Meiseimei | Ep 12 insert song | [Official MV](https://youtu.be/w-Gvclnnfpc) · [Anime cut](https://youtu.be/B8k6JtF6WrU) |
+| 4 | 影色舞 | Kageiromai | — | [Official MV](https://youtu.be/iFIXi6zzCls) |
+| 5 | 潜在表明 | Senzaihyōmei | — | [Official MV](https://youtu.be/bkUqxpb_vYY) · [3rd Live](https://youtu.be/k7W180o4RZ0) · [THE FIRST TAKE](https://youtu.be/bkI2m110RSQ) |
+| 6 | 名無声 | Mumeisei | — | [Official MV](https://youtu.be/2mM64qcBYg8) · [2nd Live](https://youtu.be/sA00FUopPgc) |
+| 7 | 栞 | Shiori | — | [Official MV](https://youtu.be/wuUZjdiUCj0) |
+
+**Ave Mujica**
+
+| # | Title | Romaji | Official versions |
+| :--- | :--- | :--- | :--- |
+| 1 | KiLLKiSS | — | [Official MV](https://youtu.be/RexyoaXaQ1o) · [Anime Live](https://youtu.be/l3iJTA7lmH8) · [4th Live](https://youtu.be/0PGfVrLeXUU) · [CM](https://youtu.be/CaciH8Gqcfw) |
+| 2 | 無路矢 | Mūroya | [Official MV](https://youtu.be/yo0gaLx7XdQ) |
+| 3 | Imprisoned XII | — | [Official MV](https://youtu.be/0YNMV7xljD4) |
+| — | Anime Main PV | — | [PV](https://youtu.be/AKSHRvq4brE) |
+
+> "Live" = footage from BanG Dream! concert series. "Anime cut" = differs from the Official MV (uses anime footage).
 
 ---
 
@@ -419,6 +486,38 @@ Welcome contributions:
 - Translate the README (currently zh / en / ja) → PR welcome
 
 Please do not submit: commercial materials, paid-content screenshots, or unauthorized fan art.
+
+---
+
+## Timeline
+
+```
+2023-06   ▶  TV anime "BanG Dream! It's MyGO!!!!!" premieres (13 episodes through Sep)
+2023-09   ▶  Series finale; Ep 12 "Meiseimei" becomes a defining moment
+2024-09   ▶  Compilation movie part 1 "Spring Sunshine, Lost Cat" theatrical release
+2024-11   ▶  Compilation movie part 2 "Utau, Bokura ni Nareru Uta" + FILM LIVE
+2025-01   ▶  TV anime "BanG Dream! Ave Mujica" premieres
+2026-03   ▶  Sequel announced: "MyGO!!!!! / Ave Mujica - The Die is Cast -"
+2027-01   ▶  Sequel TV anime scheduled (NTV network)
+```
+
+> Updated through May 2026. The archive will continue to expand as new releases drop.
+
+---
+
+## Official Links
+
+| Category | URL |
+| :--- | :--- |
+| MyGO!!!!! anime site | https://anime.bang-dream.com/mygo/ |
+| Ave Mujica anime site | https://anime.bang-dream.com/avemujica/ |
+| BanG Dream! main site | https://bang-dream.com |
+| Official YouTube | https://www.youtube.com/@bangdream |
+| Official Twitter (MyGO) | https://twitter.com/anime_mygo |
+| Official Twitter (Mujica) | https://twitter.com/anime_avemujica |
+| Bushiroad Store | https://bushiroad-store.com |
+| BanG Dream! Wikia | https://bandori.fandom.com |
+| Bestdori card unpacking | https://bestdori.com |
 
 ---
 

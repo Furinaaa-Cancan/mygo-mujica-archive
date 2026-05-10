@@ -74,6 +74,36 @@
 
 ---
 
+## 声優陣
+
+<div align="center">
+
+**MyGO!!!!!**
+
+| キャラクター | 担当楽器 | 声優 / 演者 |
+| :--- | :--- | :--- |
+| 高松 燈（Tomori） | Vocal | 羊宮 妃那 |
+| 千早 愛音（Anon） | Rhythm Guitar | 立石 凛 |
+| 要 楽奈（Rāna） | Lead Guitar | 青木 陽菜 |
+| 長崎 そよ（Soyo） | Bass | 小日向 美香 |
+| 椎名 立希（Taki） | Drums | 林 鼓子 |
+
+**Ave Mujica**
+
+| キャラクター / マスク名 | 担当 | 声優 |
+| :--- | :--- | :--- |
+| 豊川 祥子 / **Oblivionis** | Vocal | 高尾 奏音 |
+| 若葉 睦 / **Mortis** | Drums | 渡瀬 結月 |
+| 三角 初華 / **Doloris** | Guitar | 佐々木 李子 |
+| 八幡 海鈴 / **Timoris** | Bass | 岡田 夢以 |
+| 祐天寺 にゃむ / **Amoris** | Keyboard | 米澤 茜 |
+
+</div>
+
+> 声優は同時に実在のバンドメンバーであり、歌・演奏すべて本人が担当。Live は文字通り"キャラクターが舞台に登場する"瞬間です。
+
+---
+
 ## このリポジトリについて
 
 これは **同人創作者・個人開発者・MAD/二次創作 UP 主** 向けに整理した素材アーカイブです。
@@ -206,7 +236,15 @@ MyGO は 119 枚の高解像度カード（Bestdori 解析、1334 × 1002 横版
 
 ## アクスタ商品画像
 
-Bushiroad ストアの公式商品画像、1000 × 1000 正方形。MyGO 37 枚 / Mujica 35 枚で、複数のシリーズ（BD Logo / TwoMan / SLR / Birthday / Exitus 等）をカバー。
+Bushiroad ストアの公式商品画像、1000 × 1000 正方形。MyGO 37 枚 / Mujica 35 枚で、以下のシリーズをカバー：
+
+| MyGO!!!!! シリーズ（12 種） | Ave Mujica シリーズ（10 種） |
+| :--- | :--- |
+| BD Logo Vol.2 · TwoMan · 8th Live | BD Logo Vol.2 · TwoMan · 4th Live Symphony |
+| 雨に添いて晴れを乞う | Manuscriptus · Masquerade · Exitus |
+| Lost Band · Winter Travel · Aurora Oversize | Ulterius Procedere · Knight · Birthday Vol.2 |
+| 10th Anniv · KV2025 · Sing And Ring · PalVerse | PalVerse |
+| Star Descending Tea Party | — |
 
 <div align="center">
 
@@ -248,6 +286,35 @@ Bushiroad ストアの公式商品画像、1000 × 1000 正方形。MyGO 37 枚 
 
 > 命名規則：`<番号>_<曲名>_<バージョン>_<videoId>.jpg`
 > `https://youtu.be/<videoId>` の形式でそのまま動画にアクセス可能。
+
+---
+
+## 楽曲一覧
+
+リポジトリに収録されている公式 MV / Live / 特別版サムネイルは合計 20 種、以下の楽曲をカバーしています。
+
+**MyGO!!!!!**
+
+| # | 曲名 | 読み | アニメ使用 | 公式バージョン |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 春日影 | はるひかげ | 第 7 話 挿入歌 | [Official MV](https://youtu.be/ZsvJUh03MwI) · [アニメ版](https://youtu.be/W8DCWI_Gc9c) |
+| 2 | 詩超絆 | うたちょうきずな | 第 10 話 挿入歌 | [Official MV](https://youtu.be/wJ-OebTVyvk) · [アニメ版](https://youtu.be/QkG7tIGYgSw) |
+| 3 | 迷星叫 | めいせいめい | 第 12 話 挿入歌 | [Official MV](https://youtu.be/w-Gvclnnfpc) · [アニメ版](https://youtu.be/B8k6JtF6WrU) |
+| 4 | 影色舞 | かげいろまい | — | [Official MV](https://youtu.be/iFIXi6zzCls) |
+| 5 | 潜在表明 | せんざいひょうめい | — | [Official MV](https://youtu.be/bkUqxpb_vYY) · [3rd Live](https://youtu.be/k7W180o4RZ0) · [THE FIRST TAKE](https://youtu.be/bkI2m110RSQ) |
+| 6 | 名無声 | むめいせい | — | [Official MV](https://youtu.be/2mM64qcBYg8) · [2nd Live](https://youtu.be/sA00FUopPgc) |
+| 7 | 栞 | しおり | — | [Official MV](https://youtu.be/wuUZjdiUCj0) |
+
+**Ave Mujica**
+
+| # | 曲名 | 読み | 公式バージョン |
+| :--- | :--- | :--- | :--- |
+| 1 | KiLLKiSS | — | [Official MV](https://youtu.be/RexyoaXaQ1o) · [Anime Live](https://youtu.be/l3iJTA7lmH8) · [4th Live](https://youtu.be/0PGfVrLeXUU) · [CM](https://youtu.be/CaciH8Gqcfw) |
+| 2 | 無路矢 | むろや | [Official MV](https://youtu.be/yo0gaLx7XdQ) |
+| 3 | Imprisoned XII | — | [Official MV](https://youtu.be/0YNMV7xljD4) |
+| — | アニメ Main PV | — | [PV](https://youtu.be/AKSHRvq4brE) |
+
+> "Live 版" は BanG Dream! ライブシリーズの実演収録、"アニメ版" は公式 MV と異なる映像編集（アニメ素材使用）を指します。
 
 ---
 
@@ -418,6 +485,38 @@ MV サムネ         <番号>_<曲名>_<バージョン>_<videoId>.jpg
 - README 翻訳（現在 zh / en / ja）→ PR 大歓迎
 
 提出をお控えください：商用素材、有料コンテンツのスクショ、許可のないファンアート。
+
+---
+
+## 年表
+
+```
+2023-06   ▶  TV アニメ『BanG Dream! It's MyGO!!!!!』放送開始（全 13 話、9 月まで）
+2023-09   ▶  完結。第 12 話「迷星叫」が名場面に
+2024-09   ▶  劇場版前編『春のひだまり、迷い猫』公開（再編集版）
+2024-11   ▶  劇場版後編『歌う、僕らになれる歌』+ FILM LIVE 公開
+2025-01   ▶  TV アニメ『BanG Dream! Ave Mujica』放送開始
+2026-03   ▶  続編アニメ『MyGO!!!!! / Ave Mujica - The Die is Cast -』発表
+2027-01   ▶  続編 TV アニメ放送予定（NTV 系）
+```
+
+> 2026 年 5 月時点。新作情報に合わせて素材を継続的に追加予定。
+
+---
+
+## 公式リンク
+
+| カテゴリ | URL |
+| :--- | :--- |
+| MyGO!!!!! アニメ公式 | https://anime.bang-dream.com/mygo/ |
+| Ave Mujica アニメ公式 | https://anime.bang-dream.com/avemujica/ |
+| BanG Dream! 本家 | https://bang-dream.com |
+| 公式 YouTube | https://www.youtube.com/@bangdream |
+| 公式 Twitter (MyGO) | https://twitter.com/anime_mygo |
+| 公式 Twitter (Mujica) | https://twitter.com/anime_avemujica |
+| Bushiroad ストア | https://bushiroad-store.com |
+| BanG Dream! Wikia | https://bandori.fandom.com |
+| Bestdori（カード解析） | https://bestdori.com |
 
 ---
 

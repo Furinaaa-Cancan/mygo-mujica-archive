@@ -74,6 +74,36 @@
 
 ---
 
+## 声优阵容
+
+<div align="center">
+
+**MyGO!!!!!**
+
+| 角色 | 担当乐器 | 声优 / Real-Life Performer |
+| :--- | :--- | :--- |
+| 高松 燈（Tomori） | Vocal | 羊宮 妃那（Yōmiya Hina） |
+| 千早 愛音（Anon） | Rhythm Guitar | 立石 凛（Tateishi Rin） |
+| 要 楽奈（Rāna） | Lead Guitar | 青木 陽菜（Aoki Hina） |
+| 長崎 そよ（Soyo） | Bass | 小日向 美香（Kohinata Mika） |
+| 椎名 立希（Taki） | Drums | 林 鼓子（Hayashi Coco） |
+
+**Ave Mujica**
+
+| 角色 / 假名 | 担当 | 声优 |
+| :--- | :--- | :--- |
+| 豊川 祥子 / **Oblivionis** | Vocal | 高尾 奏音（Takao Kanon） |
+| 若葉 睦 / **Mortis** | Drums | 渡瀬 結月（Watase Yuzuki） |
+| 三角 初華 / **Doloris** | Guitar | 佐々木 李子（Sasaki Rico） |
+| 八幡 海鈴 / **Timoris** | Bass | 岡田 夢以（Okada Mei） |
+| 祐天寺 にゃむ / **Amoris** | Keyboard | 米澤 茜（Yonezawa Akane） |
+
+</div>
+
+> 声优同时是真人乐队成员，演唱 / 演奏均为本人。Live 现场即"角色登台"。
+
+---
+
 ## 关于本仓库
 
 这是一个面向**同人创作者、独立开发者、二次创作 UP 主**的素材整理库。
@@ -206,7 +236,15 @@ MyGO 119 张高清卡面（Bestdori 解包，1334 × 1002 横版），Ave Mujica
 
 ## アクスタ商品图
 
-Bushiroad Store 官方商品图，1000 × 1000 正方。MyGO 37 张 / Mujica 35 张，覆盖多个商品系列（BD Logo / TwoMan / SLR / Birthday / Exitus 等）。
+Bushiroad Store 官方商品图，1000 × 1000 正方。MyGO 37 张 / Mujica 35 张，覆盖以下系列：
+
+| MyGO!!!!! 系列（12 套） | Ave Mujica 系列（10 套） |
+| :--- | :--- |
+| BD Logo Vol.2 · TwoMan · 8th Live | BD Logo Vol.2 · TwoMan · 4th Live Symphony |
+| AmenisoyoideHarewoKou（雨に添いて晴れを乞う） | Manuscriptus · Masquerade · Exitus |
+| LostBand · WinterTravel · AuroraOversize | UlteriusProcedere · Knight · Birthday Vol.2 |
+| 10thAnniv · KV2025 · SingAndRing · PalVerse | PalVerse |
+| StarDescendingTeaParty | — |
 
 <div align="center">
 
@@ -248,6 +286,35 @@ Bushiroad Store 官方商品图，1000 × 1000 正方。MyGO 37 张 / Mujica 35 
 
 > 命名格式：`<序号>_<曲名>_<版本>_<videoId>.jpg`
 > 直接拼接 `https://youtu.be/<videoId>` 即可回到原视频。
+
+---
+
+## 乐曲列表
+
+仓库中收录的官方 MV / 现场 / 特别版本缩略图共 20 个，覆盖以下乐曲。
+
+**MyGO!!!!!**
+
+| # | 曲名 | 罗马音 | 动画使用 | 官方版本 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 春日影 | Haruhikage | 第 7 话 插入歌 | [Official MV](https://youtu.be/ZsvJUh03MwI) · [アニメ版](https://youtu.be/W8DCWI_Gc9c) |
+| 2 | 詩超絆 | Utachōkizuna | 第 10 话 插入歌 | [Official MV](https://youtu.be/wJ-OebTVyvk) · [アニメ版](https://youtu.be/QkG7tIGYgSw) |
+| 3 | 迷星叫 | Meiseimei | 第 12 话 插入歌 | [Official MV](https://youtu.be/w-Gvclnnfpc) · [アニメ版](https://youtu.be/B8k6JtF6WrU) |
+| 4 | 影色舞 | Kageiromai | — | [Official MV](https://youtu.be/iFIXi6zzCls) |
+| 5 | 潜在表明 | Senzaihyōmei | — | [Official MV](https://youtu.be/bkUqxpb_vYY) · [3rd Live](https://youtu.be/k7W180o4RZ0) · [THE FIRST TAKE](https://youtu.be/bkI2m110RSQ) |
+| 6 | 名無声 | Mumeisei | — | [Official MV](https://youtu.be/2mM64qcBYg8) · [2nd Live](https://youtu.be/sA00FUopPgc) |
+| 7 | 栞 | Shiori | — | [Official MV](https://youtu.be/wuUZjdiUCj0) |
+
+**Ave Mujica**
+
+| # | 曲名 | 罗马音 | 官方版本 |
+| :--- | :--- | :--- | :--- |
+| 1 | KiLLKiSS | — | [Official MV](https://youtu.be/RexyoaXaQ1o) · [Anime Live](https://youtu.be/l3iJTA7lmH8) · [4th Live](https://youtu.be/0PGfVrLeXUU) · [CM](https://youtu.be/CaciH8Gqcfw) |
+| 2 | 無路矢 | Mūroya | [Official MV](https://youtu.be/yo0gaLx7XdQ) |
+| 3 | Imprisoned XII | — | [Official MV](https://youtu.be/0YNMV7xljD4) |
+| — | Anime Main PV | — | [Anime PV](https://youtu.be/AKSHRvq4brE) |
+
+> "Live 版"指 BanG Dream! 系列演唱会现场实拍版本，"アニメ版"指动画 PV 与官方 MV 不同的剪辑。
 
 ---
 
@@ -418,6 +485,38 @@ MV 缩略图     <序号>_<曲名>_<版本>_<videoId>.jpg
 - 翻译 README（英 / 日）→ 欢迎
 
 请勿提交：商业素材、付费内容截图、未经授权的二次创作。
+
+---
+
+## 时间线
+
+```
+2023-06   ▶  TV 动画《BanG Dream! It's MyGO!!!!!》开播（共 13 话，至 9 月）
+2023-09   ▶  动画完结，第 12 话「迷星叫」成为名场面
+2024-09   ▶  剧场版前篇『春のひだまり、迷い猫』公映（剪辑版）
+2024-11   ▶  剧场版后篇『歌う、僕らになれる歌』+ FILM LIVE 公映
+2025-01   ▶  TV 动画《BanG Dream! Ave Mujica》开播
+2026-03   ▶  续篇 TV 动画《MyGO!!!!! / Ave Mujica - The Die is Cast -》公布
+2027-01   ▶  续篇动画预定开播（NTV 系）
+```
+
+> 数据更新至 2026 年 5 月。本仓库会随新作信息持续补充素材。
+
+---
+
+## 官方链接
+
+| 类别 | 链接 |
+| :--- | :--- |
+| MyGO!!!!! 动画官网 | https://anime.bang-dream.com/mygo/ |
+| Ave Mujica 动画官网 | https://anime.bang-dream.com/avemujica/ |
+| BanG Dream! 官方网站 | https://bang-dream.com |
+| 官方 YouTube | https://www.youtube.com/@bangdream |
+| 官方 Twitter (MyGO) | https://twitter.com/anime_mygo |
+| 官方 Twitter (Mujica) | https://twitter.com/anime_avemujica |
+| Bushiroad Store | https://bushiroad-store.com |
+| BanG Dream! Wikia | https://bandori.fandom.com |
+| Bestdori 卡面解包 | https://bestdori.com |
 
 ---
 
