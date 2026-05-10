@@ -120,6 +120,22 @@ If you're building a fan site, character wiki, card browser, Discord bot, Live2D
 
 ---
 
+## Timeline
+
+```
+2023-06   ▶  TV anime "BanG Dream! It's MyGO!!!!!" premieres (13 episodes through Sep)
+2023-09   ▶  Series finale; Ep 12 "Meiseimei" becomes a defining moment
+2024-09   ▶  Compilation movie part 1 "Spring Sunshine, Lost Cat" theatrical release
+2024-11   ▶  Compilation movie part 2 "Utau, Bokura ni Nareru Uta" + FILM LIVE
+2025-01   ▶  TV anime "BanG Dream! Ave Mujica" premieres
+2026-03   ▶  Sequel announced: "MyGO!!!!! / Ave Mujica - The Die is Cast -"
+2027-01   ▶  Sequel TV anime scheduled (NTV network)
+```
+
+> Updated through May 2026. The archive will continue to expand as new releases drop.
+
+---
+
 ## Copyright & Use
 
 This repository is for **non-commercial fan creation, personal study, and website building only**.
@@ -474,38 +490,7 @@ Full index, source verification, and quality tiers: [`assets/README.md`](assets/
 | Web fonts | [Google Fonts](https://fonts.google.com) | OFL / SIL |
 | Anime screenshots | [serser322/ave-mujica-images](https://github.com/serser322/ave-mujica-images) | MIT project |
 
----
-
-## Contributing
-
-Welcome contributions:
-
-- Found duplicates / wrong naming / classification issues → [open an Issue](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/issues)
-- Missing assets (please follow the naming convention) → submit a PR
-- Color hex / font-license corrections → submit a PR
-- Translate the README (currently zh / en / ja) → PR welcome
-
-Please do not submit: commercial materials, paid-content screenshots, or unauthorized fan art.
-
----
-
-## Timeline
-
-```
-2023-06   ▶  TV anime "BanG Dream! It's MyGO!!!!!" premieres (13 episodes through Sep)
-2023-09   ▶  Series finale; Ep 12 "Meiseimei" becomes a defining moment
-2024-09   ▶  Compilation movie part 1 "Spring Sunshine, Lost Cat" theatrical release
-2024-11   ▶  Compilation movie part 2 "Utau, Bokura ni Nareru Uta" + FILM LIVE
-2025-01   ▶  TV anime "BanG Dream! Ave Mujica" premieres
-2026-03   ▶  Sequel announced: "MyGO!!!!! / Ave Mujica - The Die is Cast -"
-2027-01   ▶  Sequel TV anime scheduled (NTV network)
-```
-
-> Updated through May 2026. The archive will continue to expand as new releases drop.
-
----
-
-## Official Links
+### Official Links
 
 | Category | URL |
 | :--- | :--- |
@@ -518,6 +503,19 @@ Please do not submit: commercial materials, paid-content screenshots, or unautho
 | Bushiroad Store | https://bushiroad-store.com |
 | BanG Dream! Wikia | https://bandori.fandom.com |
 | Bestdori card unpacking | https://bestdori.com |
+
+---
+
+## Contributing
+
+Welcome contributions:
+
+- Found duplicates / wrong naming / classification issues → [open an Issue](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/issues)
+- Missing assets (please follow the naming convention) → submit a PR
+- Color hex / font-license corrections → submit a PR
+- Translate the README (currently zh / en / ja) → PR welcome
+
+Please do not submit: commercial materials, paid-content screenshots, or unauthorized fan art.
 
 ---
 

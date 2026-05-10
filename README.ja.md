@@ -120,6 +120,22 @@
 
 ---
 
+## 年表
+
+```
+2023-06   ▶  TV アニメ『BanG Dream! It's MyGO!!!!!』放送開始（全 13 話、9 月まで）
+2023-09   ▶  完結。第 12 話「迷星叫」が名場面に
+2024-09   ▶  劇場版前編『春のひだまり、迷い猫』公開（再編集版）
+2024-11   ▶  劇場版後編『歌う、僕らになれる歌』+ FILM LIVE 公開
+2025-01   ▶  TV アニメ『BanG Dream! Ave Mujica』放送開始
+2026-03   ▶  続編アニメ『MyGO!!!!! / Ave Mujica - The Die is Cast -』発表
+2027-01   ▶  続編 TV アニメ放送予定（NTV 系）
+```
+
+> 2026 年 5 月時点。新作情報に合わせて素材を継続的に追加予定。
+
+---
+
 ## 著作権と利用について
 
 本リポジトリは **非商用の同人創作・個人学習・サイト構築用途のみ** に提供されます。
@@ -473,38 +489,7 @@ MV サムネ         <番号>_<曲名>_<バージョン>_<videoId>.jpg
 | Web フォント | [Google Fonts](https://fonts.google.com) | OFL / SIL |
 | アニメスクショ | [serser322/ave-mujica-images](https://github.com/serser322/ave-mujica-images) | MIT プロジェクト |
 
----
-
-## 貢献
-
-以下のような貢献を歓迎します：
-
-- 重複 / 命名ミス / 分類ミスの報告 → [Issue を開く](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/issues)
-- 漏れている素材の追加（命名規則をご遵守ください）→ PR
-- 配色 hex / フォントライセンス情報の修正 → PR
-- README 翻訳（現在 zh / en / ja）→ PR 大歓迎
-
-提出をお控えください：商用素材、有料コンテンツのスクショ、許可のないファンアート。
-
----
-
-## 年表
-
-```
-2023-06   ▶  TV アニメ『BanG Dream! It's MyGO!!!!!』放送開始（全 13 話、9 月まで）
-2023-09   ▶  完結。第 12 話「迷星叫」が名場面に
-2024-09   ▶  劇場版前編『春のひだまり、迷い猫』公開（再編集版）
-2024-11   ▶  劇場版後編『歌う、僕らになれる歌』+ FILM LIVE 公開
-2025-01   ▶  TV アニメ『BanG Dream! Ave Mujica』放送開始
-2026-03   ▶  続編アニメ『MyGO!!!!! / Ave Mujica - The Die is Cast -』発表
-2027-01   ▶  続編 TV アニメ放送予定（NTV 系）
-```
-
-> 2026 年 5 月時点。新作情報に合わせて素材を継続的に追加予定。
-
----
-
-## 公式リンク
+### 公式リンク
 
 | カテゴリ | URL |
 | :--- | :--- |
@@ -517,6 +502,19 @@ MV サムネ         <番号>_<曲名>_<バージョン>_<videoId>.jpg
 | Bushiroad ストア | https://bushiroad-store.com |
 | BanG Dream! Wikia | https://bandori.fandom.com |
 | Bestdori（カード解析） | https://bestdori.com |
+
+---
+
+## 貢献
+
+以下のような貢献を歓迎します：
+
+- 重複 / 命名ミス / 分類ミスの報告 → [Issue を開く](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/issues)
+- 漏れている素材の追加（命名規則をご遵守ください）→ PR
+- 配色 hex / フォントライセンス情報の修正 → PR
+- README 翻訳（現在 zh / en / ja）→ PR 大歓迎
+
+提出をお控えください：商用素材、有料コンテンツのスクショ、許可のないファンアート。
 
 ---
 

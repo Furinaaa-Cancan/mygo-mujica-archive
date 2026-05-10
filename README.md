@@ -120,6 +120,22 @@
 
 ---
 
+## 时间线
+
+```
+2023-06   ▶  TV 动画《BanG Dream! It's MyGO!!!!!》开播（共 13 话，至 9 月）
+2023-09   ▶  动画完结，第 12 话「迷星叫」成为名场面
+2024-09   ▶  剧场版前篇『春のひだまり、迷い猫』公映（剪辑版）
+2024-11   ▶  剧场版后篇『歌う、僕らになれる歌』+ FILM LIVE 公映
+2025-01   ▶  TV 动画《BanG Dream! Ave Mujica》开播
+2026-03   ▶  续篇 TV 动画《MyGO!!!!! / Ave Mujica - The Die is Cast -》公布
+2027-01   ▶  续篇动画预定开播（NTV 系）
+```
+
+> 数据更新至 2026 年 5 月。本仓库会随新作信息持续补充素材。
+
+---
+
 ## 版权与使用
 
 本仓库**仅适用于非商业的同人创作、个人学习、网站建设**等用途。
@@ -473,38 +489,7 @@ MV 缩略图     <序号>_<曲名>_<版本>_<videoId>.jpg
 | Web 字体 | [Google Fonts](https://fonts.google.com) | OFL / SIL |
 | 动画截图 | [serser322/ave-mujica-images](https://github.com/serser322/ave-mujica-images) | MIT 项目 |
 
----
-
-## 贡献
-
-欢迎以下形式的贡献：
-
-- 发现重复 / 错误命名 / 分类问题 → [开 Issue](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/issues)
-- 补充遗漏的素材（请遵守上方命名规则）→ 提交 PR
-- 修订配色 hex / 字体许可信息 → 提交 PR
-- 翻译 README（英 / 日）→ 欢迎
-
-请勿提交：商业素材、付费内容截图、未经授权的二次创作。
-
----
-
-## 时间线
-
-```
-2023-06   ▶  TV 动画《BanG Dream! It's MyGO!!!!!》开播（共 13 话，至 9 月）
-2023-09   ▶  动画完结，第 12 话「迷星叫」成为名场面
-2024-09   ▶  剧场版前篇『春のひだまり、迷い猫』公映（剪辑版）
-2024-11   ▶  剧场版后篇『歌う、僕らになれる歌』+ FILM LIVE 公映
-2025-01   ▶  TV 动画《BanG Dream! Ave Mujica》开播
-2026-03   ▶  续篇 TV 动画《MyGO!!!!! / Ave Mujica - The Die is Cast -》公布
-2027-01   ▶  续篇动画预定开播（NTV 系）
-```
-
-> 数据更新至 2026 年 5 月。本仓库会随新作信息持续补充素材。
-
----
-
-## 官方链接
+### 官方链接
 
 | 类别 | 链接 |
 | :--- | :--- |
@@ -517,6 +502,19 @@ MV 缩略图     <序号>_<曲名>_<版本>_<videoId>.jpg
 | Bushiroad Store | https://bushiroad-store.com |
 | BanG Dream! Wikia | https://bandori.fandom.com |
 | Bestdori 卡面解包 | https://bestdori.com |
+
+---
+
+## 贡献
+
+欢迎以下形式的贡献：
+
+- 发现重复 / 错误命名 / 分类问题 → [开 Issue](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/issues)
+- 补充遗漏的素材（请遵守上方命名规则）→ 提交 PR
+- 修订配色 hex / 字体许可信息 → 提交 PR
+- 翻译 README（英 / 日）→ 欢迎
+
+请勿提交：商业素材、付费内容截图、未经授权的二次创作。
 
 ---
 
